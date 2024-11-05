@@ -24,30 +24,30 @@
   <table>
     <tr>
       <td align="center" width="150">
-        <img src="https://skillicons.dev/icons?i=python" width="65" alt="Python" style="animation: bounce 2s infinite;" /><br />Python
+        <img src="https://skillicons.dev/icons?i=python" width="65" alt="Python" /><br />Python
       </td>
       <td align="center" width="150">
-        <img src="https://skillicons.dev/icons?i=django" width="65" alt="Django" style="animation: pulse 2s infinite;" /><br />Django
+        <img src="https://skillicons.dev/icons?i=django" width="65" alt="Django" /><br />Django
       </td>
       <td align="center" width="150">
-        <img src="https://skillicons.dev/icons?i=react" width="65" alt="React" style="animation: bounce 2s infinite;" /><br />React
+        <img src="https://skillicons.dev/icons?i=react" width="65" alt="React" /><br />React
       </td>
       <td align="center" width="150">
-        <img src="https://img.icons8.com/color/96/000000/rest-api.png" width="65" alt="REST API" style="animation: pulse 2s infinite;" /><br />REST API
+        <img src="https://img.icons8.com/external-soft-fill-juicy-fish/64/000000/external-api-ux-and-interface-soft-fill-soft-fill-juicy-fish.png" width="65" alt="REST API" /><br />REST API
       </td>
     </tr>
     <tr>
       <td align="center" width="150">
-        <img src="https://skillicons.dev/icons?i=javascript" width="65" alt="JavaScript" style="animation: bounce 2s infinite;" /><br />JavaScript
+        <img src="https://skillicons.dev/icons?i=javascript" width="65" alt="JavaScript" /><br />JavaScript
       </td>
       <td align="center" width="150">
-        <img src="https://skillicons.dev/icons?i=aws" width="65" alt="AWS" style="animation: pulse 2s infinite;" /><br />AWS
+        <img src="https://skillicons.dev/icons?i=aws" width="65" alt="AWS" /><br />AWS
       </td>
       <td align="center" width="150">
-        <img src="https://skillicons.dev/icons?i=postgresql,mysql" width="65" alt="SQL" style="animation: bounce 2s infinite;" /><br />SQL
+        <img src="https://skillicons.dev/icons?i=postgresql,mysql" width="65" alt="SQL" /><br />SQL
       </td>
       <td align="center" width="150">
-        <img src="https://skillicons.dev/icons?i=html,css" width="65" alt="HTML/CSS" style="animation: pulse 2s infinite;" /><br />HTML & CSS
+        <img src="https://skillicons.dev/icons?i=html,css" width="65" alt="HTML/CSS" /><br />HTML & CSS
       </td>
     </tr>
   </table>
@@ -58,6 +58,7 @@
 
 - 🔭 I’m currently working on *cutting-edge web projects using Django, React, and AWS*
 - 💬 Ask me about *Python, Django, React, AWS, and web development best practices*
+- 📱 Contact: +91 9656165541
 - ⚡ Fun fact: *I enjoy solving complex tech puzzles as much as creating them!*
 
 ---
