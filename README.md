@@ -19,6 +19,40 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RIVIN-RONE&layout=compact&theme=radical&hide_border=true" />
 </p>
 
+<h2 align="center">🚀 Most Used Technologies 🚀</h2>
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="150">
+        <img src="https://skillicons.dev/icons?i=python" width="65" alt="Python" style="animation: bounce 2s infinite;" /><br />Python
+      </td>
+      <td align="center" width="150">
+        <img src="https://skillicons.dev/icons?i=django" width="65" alt="Django" style="animation: pulse 2s infinite;" /><br />Django
+      </td>
+      <td align="center" width="150">
+        <img src="https://skillicons.dev/icons?i=react" width="65" alt="React" style="animation: bounce 2s infinite;" /><br />React
+      </td>
+      <td align="center" width="150">
+        <img src="https://img.icons8.com/color/96/000000/rest-api.png" width="65" alt="REST API" style="animation: pulse 2s infinite;" /><br />REST API
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="150">
+        <img src="https://skillicons.dev/icons?i=javascript" width="65" alt="JavaScript" style="animation: bounce 2s infinite;" /><br />JavaScript
+      </td>
+      <td align="center" width="150">
+        <img src="https://skillicons.dev/icons?i=aws" width="65" alt="AWS" style="animation: pulse 2s infinite;" /><br />AWS
+      </td>
+      <td align="center" width="150">
+        <img src="https://skillicons.dev/icons?i=postgresql,mysql" width="65" alt="SQL" style="animation: bounce 2s infinite;" /><br />SQL
+      </td>
+      <td align="center" width="150">
+        <img src="https://skillicons.dev/icons?i=html,css" width="65" alt="HTML/CSS" style="animation: pulse 2s infinite;" /><br />HTML & CSS
+      </td>
+    </tr>
+  </table>
+</div>
+
 <h2 align="center">🌟 About Me 🌟</h2>
 <p align="center">I'm a dedicated software developer with 2.6 years of experience in building dynamic and scalable web applications. From architecting robust backends with Python and Django to developing interactive frontends with React, I love exploring new technologies and turning ideas into reality. Open-source projects and tech collaborations are my passion—let's innovate together!</p>
 
@@ -36,13 +70,6 @@
   <a href="mailto:hiimroney@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
-</p>
-
----
-
-<h3 align="center">🛠️ Languages & Tools</h3>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,django,react,html,css,javascript,aws,mysql,bootstrap,git,linux" />
 </p>
 
 ---
